@@ -1,0 +1,64 @@
+1. Inconsistent Formatting of Work Experience
+Mistake: The formatting of job titles and responsibilities is inconsistent. For example, "JUNIOR SOFTWARE ENGINEER" appears twice, and some sections are written in a paragraph style, while others use bullet points. This could confuse the reader.
+
+Fix: Use consistent formatting for job titles and bullet points to ensure clarity and readability.
+
+
+2. Unclear Job Description & Achievements
+Mistake: Some job responsibilities and achievements are vague or incomplete. For example, "Boosted team efficiency by a high rate" doesn’t specify the actual percentage or impact of the improvement.
+
+Fix: Quantify the achievements and be more specific about the impact.
+
+3. Overuse of the Same Phrase (Repetition)
+Mistake: The phrase "Heiman Software Labs, a global company that provides software services across various industries" is repeated multiple times. This redundancy can be avoided.
+
+Fix: Eliminate repetition and streamline the description of the company.
+
+4. Missing Time Consistency in Dates
+Mistake: The "Intern" position is listed as "Oct 2021 to Dec 2021 (3 months)," but it would be better to match the format and make sure it's clear and consistent with the rest of the dates in the resume. Also, the "Junior Software Engineer" experience dates are slightly inconsistent in terms of formatting.
+
+Fix: Ensure that all date formats are consistent throughout the resume.
+
+5. Skills Section Needs Better Organization
+Mistake: The "RELEVANT SKILLS" section lists languages, but it could be more organized to emphasize proficiency levels or specific tools.
+
+Fix: Organize the skills into categories, like programming languages, frameworks, and tools, and add a proficiency level if relevant.
+
+
+
+Final Corrected Resume Example:
+Header:
+
+Keith Shannons
+Software Engineer | New York, NY | hello@keithshannons.com | +123-456-7890 | www.reallygreatsite.com | www.github.com/KeithShannons
+Work Experience:
+
+WORK EXPERIENCE
+Junior Software Engineer
+Heiman Software Labs | March 2022 to August 2025 (3 years, 5 months)
+- Maintained high customer satisfaction ratings by developing and implementing software solutions based on client requirements.
+- Boosted team efficiency by 30% by providing direction for business applications under development.
+- Developed a cloud-based information system to consolidate employee information, improving HR process efficiency by 80%.
+- Coordinated communication between multiple departments to streamline development processes.
+
+Intern
+Heiman Software Labs | Oct 2021 to Dec 2021 (3 months)
+- Assisted in the development of internal tools and applications to enhance operational efficiency.
+- Collaborated with senior engineers to optimize code and resolve technical issues.
+Volunteer Work:
+
+Volunteer Math Teacher | Lily River Children's Foundation | 2021-Present
+- Taught math concepts to elementary school children, improving their problem-solving skills.
+Education:
+
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+De Loureigh University | Graduated: 2021
+- Member, Coding Masters Club
+- Founder, DLU Coding Club
+- Champion, Beechtown Hackathon 2020
+Skills:
+
+RELEVANT SKILLS
+Programming Languages: JavaScript, C/C++, Java, Python, Kotlin, Go
+Tools & Technologies: Git, Docker, AWS, SQL
+With these changes, the resume should be much more polished, concise, and easier to read!
